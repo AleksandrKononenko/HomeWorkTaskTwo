@@ -1,0 +1,6 @@
+<persons>
+    <person date_time = "2020-05-05 15:39:03" first_name = "Ivan" last_name = "Ivanov" type = "Speeding" fine_amount = "340.00"/>
+    <person date_time = "2020-03-01 14:23:03" first_name = "Oleksandr" last_name = "Petrov" type = "Without rights" fine_amount = "3400.00" />
+    <person date_time = "2020-01-02 10:13:23" first_name = "Evgen" last_name = "Groh" type = "Alcohol intoxication" fine_amount = "17000.00" />
+    <person date_time = "2020-10-02 08:53:33" first_name = "Maxim" last_name = "Svenov" type = "Without rights" fine_amount = "3400.00" />
+</persons>
